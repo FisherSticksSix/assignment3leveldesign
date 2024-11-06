@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/FisherSticksSix/Downloads/2024_Sidescroll_532/2024_Sidescroll_532/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap",
+				"D:/2024_Sidescroll_532/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset",
+				"D:/2024_Sidescroll_532/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap",
+				"D:/2024_Sidescroll_532/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"D:/2024_Sidescroll_532/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"D:/SideScroller_V532/SideScroller_V422 5.3/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+			]
+		}
+	]
+}
